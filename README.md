@@ -12,6 +12,6 @@ plot_realizations.m plot realizations of specified random processes, similar to 
 
 test_updateWithOptlTransf.m pertains to the one-dimensional example of section 4. It generates realizations of the state, observations, and state ensemble, then performs updates of various forms.
 
-wrapper_updateAsFnAnything.m sets parameters and calls test_updateWithOptlTransf.m, allowing accumulation of results as parameters vary.
+wrapper_bestFixedLocalization.m sets parameters and calls test_updateWithOptlTransf.m, allowing accumulation of results as ensemble size and localization length vary.
 
 fig3_optimalPaper.m reads mmse_6April_Ne1024.mat, which contains results from wrapper_updateAsFnAnything.m, and plots Fig. 3.
