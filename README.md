@@ -1,5 +1,7 @@
 # JAMES2022-Optimal
 
+[![DOI](https://zenodo.org/badge/497347062.svg)](https://zenodo.org/badge/latestdoi/497347062)
+
 Matlab scripts and functions relevant to the paper:
   
 Snyder, C. and G. J. Hakim, 2022: An optimal linear transformation for data assimilation, *Journal of Advances in Modeling Earth Systems*, accepted. 
